@@ -315,6 +315,12 @@ class LogCommand extends \yii\console\Controller {}
 * http://www.yiiframework.com/doc-2.0/
 * http://www.yiiframework.com/doc/guide/1.1/en/index
 * http://www.yiiframework.com/doc-2.0/guide-README.html
+* http://docs.mirocow.com/doku.php?id=yii2:migrate-yii1
+* search for `yii1 to yii2 site:github.com` in google and in google but also in incognito window 
+(you'll get other results because they'll unpersionalized)
+* search for `yii2 site:github.com` in issues in yii1 github repo
+* search for `yii1 site:github.com` in issues in yii2 github repo
+
 
 ## TODOs
 * make diff (like validator) for - BaseYii, base namespace, cache namespace, console namespace,
@@ -323,7 +329,7 @@ i18n namespace, helpers/utils namespace, widgets namespace
 so I can just call cli command to do things
 
 ##
-things that can be used/(get insperation of) on building cli tool
+things that can be used/(get inspiration of) on building cli tool
 
 https://github.com/FriendsOfPHP/PHP-CS-Fixer
 
